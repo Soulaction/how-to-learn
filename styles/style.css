@@ -51,7 +51,7 @@
   z-index: 2;
 }
 
-.header__subtile {
+.header__subtitle {
   position: absolute;
   bottom: 30px;
   left: 64px;
@@ -151,7 +151,7 @@
   overflow: hidden;
   background-color: #1f1f1f;
   color: #fff;
-  z-index: -2;
+  z-index: 0;
 }
 
 .section-title {
@@ -204,6 +204,7 @@
 }
 
 .table__cell_theme_dark {
+  margin-top: 80px;
   width: 200px;
   color: #fff;
 }
@@ -251,7 +252,7 @@
   min-height: 890px;
   box-sizing: border-box;
   background-color: #f2f2f2;
-  z-index: -2;
+  z-index: 0;
 }
 
 .feynman__title {
